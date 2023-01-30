@@ -1,0 +1,71 @@
+1 q:
+OUTPUT:
+script.js:17 Both are Same
+
+2 Q:
+OUTPUT
+script.js:11 flag : 🇳🇬
+script.js:11 flag : 🇳🇷
+script.js:11 flag : 🇧🇶
+script.js:11 flag : 🇧🇹
+script.js:11 flag : 🇹🇩
+script.js:11 flag : 🇳🇵
+script.js:11 flag : 🇬🇲
+script.js:11 flag : 🇰🇭
+script.js:11 flag : 🇹🇷
+script.js:11 flag : 🇦🇸
+script.js:11 flag : 🇭🇲
+script.js:11 flag : 🇧🇳
+script.js:11 flag : 🇱🇮
+script.js:11 flag : 🇶🇦
+script.js:11 flag : 🇧🇷
+script.js:11 flag : 🇵🇷
+script.js:11 flag : 🇹🇴
+script.js:11 flag : 🇺🇦
+script.js:11 flag : 🇹🇳
+script.js:11 flag : 🇱🇾
+script.js:11 flag : 🇲🇷
+script.js:11 flag : 🇧🇸
+script.js:11 flag : 🇫🇯
+script.js:11 flag : 🇦🇼
+script.js:11 flag : 🇺🇾
+script.js:11 flag : 🇸🇦
+script.js:11 flag : 🇷🇸
+script.js:11 flag : 🇱🇦
+script.js:11 flag : 🇲🇰
+script.js:11 flag : 🇸🇲
+script.js:11 flag : 🇳🇿
+script.js:11 flag : 🇰🇼
+script.js:11 flag : 🇸🇳
+script.js:11 flag : 🇹🇫
+script.js:11 flag : 🇨🇴
+script.js:11 flag : 🇭🇳
+script.js:11 flag : 🇸🇨
+script.js:11 flag : 🇨🇱
+script.js:11 flag : 🇨🇮
+script.js:11 flag : 🇧🇾
+script.js:11 flag : 🇱🇧
+script.js:11 flag : 🇻🇬
+script.js:11 flag : 🇯🇪
+script.js:11 flag : 🇳🇪
+script.js:11 flag : 🇧🇩
+script.js:11 flag : 🇲🇻
+script.js:11 
+
+3.Q:
+OUTPUT:
+Nigeria ,  Africa ,  Western Africa , population is: 206139587
+script.js:11 Nauru ,  Oceania ,  Micronesia , population is: 10834
+script.js:11 Caribbean Netherlands ,  Americas ,  Caribbean , population is: 25987
+script.js:11 Bhutan ,  Asia ,  Southern Asia , population is: 771612
+script.js:11 Chad ,  Africa ,  Middle Africa , population is: 16425859
+script.js:11 Nepal ,  Asia ,  Southern Asia , population is: 29136808
+script.js:11 Gambia ,  Africa ,  Western Africa , population is: 2416664
+script.js:11 Cambodia ,  Asia ,  South-Eastern Asia , population is: 16718971
+script.js:11 Turkey ,  Asia ,  Western Asia , population is: 84339067
+script.js:11 American Samoa ,  Oceania ,  Polynesia , population is: 55197
+script.js:11 Heard Island and McDonald Islands ,  Antarctic ,  undefined , population is: 0
+script.js:11 Brunei ,  Asia ,  South-Eastern Asia , population is: 437483
+script.js:11 Liechtenstein ,  Europe ,  Western Europe , population is: 38137
+script.js:11 Qatar ,  Asia ,  Western Asia , population is: 2881060
+script.js:11 Brazil ,  Americas ,  South America , population is: 212559409
